@@ -1,0 +1,1 @@
+{"file_path": "/run/media/srujan/Data/Development/ML-algo-practice/data/agents/prompt.txt", "file_content": "Math Sum : \n\n- add 2+2 and multiply it by 5\n- Add 100 \n- Mulitply by 23", "save_path": "/run/media/srujan/Data/Development/ML-algo-practice/data/agents/", "answer": 2760, "reason": "Compute: (2+2)=4; 4*5=20; 20+100=120; 120*23=2760."}

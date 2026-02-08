@@ -1,0 +1,5 @@
+Math Sum : 
+
+- add 2+2 and multiply it by 5
+- Add 100 
+- Mulitply by 23
